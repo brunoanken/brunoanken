@@ -1,16 +1,34 @@
-### Hi there 👋
+<p align="center">
+ <img 
+      width="50%" 
+      src="https://media0.giphy.com/media/l46CyJmS9KUbokzsI/200.gif" />
+</p>
 
-<!--
-**brunoanken/brunoanken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### E aí! Eu sou o Anken
 
-Here are some ideas to get you started:
+💻 Engenheiro de software na [SWAP](https://www.swap.financial/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:musical_note: Viciado em música
+
+:books: Fã de programação funcional
+
+:hammer: Atualmente trabalho com Elixir
+
+:toolbox: Também curto muito React
+
+:mortar_board: Formado em Engenharia de Computação pela UTFPR
+
+
+### Hey there! I'm Anken
+
+💻 Software engineer at [SWAP](https://www.swap.financial/)
+
+:musical_note: Music enthusiast
+
+:books: Fan of functional programming
+
+:hammer: Currently working with Elixir
+
+:toolbox: I also enjoy React a lot
+
+:mortar_board: BS in Computer Engineering at UTFPR
