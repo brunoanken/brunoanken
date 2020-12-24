@@ -8,27 +8,15 @@
 
 💻 Engenheiro de software na [SWAP](https://www.swap.financial/)
 
-:musical_note: Viciado em música
+:hammer: Atualmente minha stack favorita é JavaScript, React, Elixir e Phoenix
 
-:books: Fã de programação funcional
-
-:hammer: Atualmente trabalho com Elixir
-
-:toolbox: Também curto muito React
-
-:mortar_board: Formado em Engenharia de Computação pela UTFPR
+:mortar_board: Graduado em Engenharia de Computação pela Universidade Tecnológica Federal do Paraná (UTFPR)
 
 
 ### Hey there! I'm Anken
 
 💻 Software engineer at [SWAP](https://www.swap.financial/)
 
-:musical_note: Music enthusiast
+:hammer:Currentyl my favorite stack is JavaScript, React, Elixir e Phoenix
 
-:books: Fan of functional programming
-
-:hammer: Currently working with Elixir
-
-:toolbox: I also enjoy React a lot
-
-:mortar_board: BS in Computer Engineering at UTFPR
+:mortar_board: BS in Computer Engineering at Universidade Federal do Paraná (UTFPR)
