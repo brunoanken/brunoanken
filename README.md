@@ -17,6 +17,6 @@
 
 💻 Software engineer at [SWAP](https://www.swap.financial/)
 
-:hammer:Currentyl my favorite stack is JavaScript, React, Elixir e Phoenix
+:hammer:Currently my favorite stack is JavaScript, React, Elixir e Phoenix
 
 :mortar_board: BS in Computer Engineering at Universidade Federal do Paraná (UTFPR)
