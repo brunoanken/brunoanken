@@ -19,4 +19,4 @@
 
 :hammer:Currently my favorite stack is JavaScript, React, Elixir and Phoenix
 
-:mortar_board: BS in Computer Engineering at Universidade Federal do Paraná (UTFPR)
+:mortar_board: BS in Computer Engineering at Universidade Tecnológica Federal do Paraná (UTFPR)
