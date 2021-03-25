@@ -18,7 +18,7 @@ I'm a fullstack who discovered that, maybe, mobile programming isn't for me.
 
 ## What I'm studying at the moment
 - Deeper SQL stuff
-- 
+- ReasonML
 
 ## Other stuff I've worked with
 - Python, Golang, C# and NodeJS in the backend
