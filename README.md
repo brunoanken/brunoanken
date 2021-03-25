@@ -29,6 +29,7 @@ I'm a fullstack who discovered that, maybe, mobile programming isn't for me.
 - PostgreSQL is my favorite SQL database
 - I think that, most times, the "best tool for the job" does not exist. Sometimes you may go with your preference and there is nothing wrong about it (but, of course, it depends haha)
 - Functional programming is beautiful and I hope it dominates the world someday
+- I immensely dislike object-oriented programming
 - Elixir has the best programming language ergonomics I've ever seen
 - I love to learn and to teach
 - Passionate about mentoring and giving carreer advices
