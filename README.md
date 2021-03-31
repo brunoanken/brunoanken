@@ -17,8 +17,8 @@ I'm a fullstack who discovered that, maybe, mobile programming isn't for me.
 - Microfrontends (the hype is real)
 
 ## What I'm studying at the moment
-- Deeper SQL stuff
-- ReasonML
+- Micro frontends
+- Rust
 
 ## Other stuff I've worked with
 - Python, Golang, C# and NodeJS in the backend
