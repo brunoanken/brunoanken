@@ -4,8 +4,8 @@
       src="https://media0.giphy.com/media/l46CyJmS9KUbokzsI/200.gif" />
 </p>
 
-# Software engineering stack
-I'm a fullstack who discovered that, maybe, mobile programming isn't for me.
+# whoami
+I'm a brazilian software engineer that knows how to do backend and frontend (not saying I'm good at any of them) and is passionate about functional programming
 
 ## My current favorite stack
 - Backend: Elixir and Phoenix
@@ -13,10 +13,12 @@ I'm a fullstack who discovered that, maybe, mobile programming isn't for me.
 
 ## What I'm currently working with
 - Micro frontends (the hype is real)
+- React
+- Emotion
 
 ## What I'm studying at the moment
-- Micro frontends
-- Rust
+- Golang
+- Software architecture
 
 ## Other stuff I've worked with
 - Python, Golang, C# and NodeJS in the backend
