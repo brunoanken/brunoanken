@@ -10,7 +10,7 @@ I'm a brazilian software engineer that knows how to do backend and frontend and 
 ## My tech stack
 
 ### I'm currently working mainly with:
-- Microfrontends with React, JavaScript and Redux
+- Microfrontends with React, JavaScript, Redux, HTML, CSS and CSS-in-JS
 - Microservices with Go
 - AWS and Terraform
 
