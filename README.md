@@ -5,30 +5,20 @@
 </p>
 
 # whoami
-I'm a brazilian software engineer that knows how to do backend and frontend (not saying I'm good at any of them) and is passionate about functional programming
+I'm a brazilian software engineer that knows how to do backend and frontend and is passionate about functional programming.
 
-## My current favorite stack
-- Backend: Elixir and Phoenix
-- Frontend: React without TypeScript
+## My tech stack
 
-## What I'm currently working with
-- Micro frontends (the hype is real)
-- React
-- Emotion
+### I'm currently working mainly with:
+- Microfrontends with React, JavaScript and Redux
+- Microservices with Go
+- AWS and Terraform
 
-## What I'm studying at the moment
-- Golang
-- Software architecture
+### I've also got professional experience with:
+- Elixir and Phoenix
+- Serverless with NodeJS, Python and Go
+- PostgresSQL, MySQL and DynamoDB
+- Vue v2, Nuxt and Vuex
 
-## Other stuff I've worked with
-- Python, Golang, C# and NodeJS in the backend
-- Vue, Nuxt, Next and Preact in the frontend
-- React Native for mobile development
-
-## Other (ir)relevant information
-- PostgreSQL is my favorite SQL database
-- I think that, most times, the "best tool for the job" does not exist. Sometimes you may go with your preference and there is nothing wrong about it (but, of course, it depends lol)
-- Functional programming is beautiful and I hope it dominates the world someday
-- I immensely dislike object-oriented programming
-- Elixir has the best programming language ergonomics I've ever seen
-- Passionate about mentoring and giving carreer advices
+### On side projects I've already used:
+- Next
