@@ -5,20 +5,19 @@
 </p>
 
 # whoami
-I'm a brazilian software engineer that knows how to do backend and frontend and is passionate about functional programming.
+I'm a Brazilian software engineer that knows how to do backend and frontend and is passionate about functional programming.
 
 ## My tech stack
 
 ### I'm currently working mainly with:
-- Microfrontends with React, JavaScript, Redux, HTML, CSS and CSS-in-JS
-- Microservices with Go
+- Microfrontends with React, JavaScript, Redux
+- A component library that uses TailwindCSS
+- Microservices with NodeJS and Go
 - AWS and Terraform
+- DynamoDB
 
 ### I've also got professional experience with:
 - Elixir and Phoenix
 - Serverless with NodeJS, Python and Go
-- PostgresSQL, MySQL and DynamoDB
-- Vue v2, Nuxt and Vuex
-
-### On side projects I've already used:
-- Next
+- PostgresSQL and MySQL
+- Vue2, Nuxt and Vuex
